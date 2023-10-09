@@ -1,5 +1,6 @@
 ## Olá! Eu sou Benício Brandão 👋
-
+- 🔨 Hoje trabalho com back-end
+- 📗 Estudando React
 
 ![Benicio GitHub stats](https://github-readme-stats.vercel.app/api?username=Benicio227&show_icons=true&theme=dracula)
 
