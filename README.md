@@ -1,10 +1,11 @@
 ## Olá! Eu sou o Benício Brandão 👋
 - 🔨 Hoje trabalho com back-end
 - 📗 Estudando React
+
+![Benicio227 Github stats](https://github-readme-stats.vercel.app/api?username=Benicio227&show_icons=true&theme=dracula)
 <div>
  <a href="https://beacons.ai/Benicio227">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benicio227&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benicio227&layout=compact&langs_count=16&theme=radical"/>
+ <img height="218em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benicio227&layout=compact&langs_count=16&theme=dracula"/>
 </div> 
 
 ## Tecnologias que eu uso no meu dia:
