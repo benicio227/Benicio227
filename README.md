@@ -1,6 +1,9 @@
 ## Olá! Eu sou o Benício Brandão 👋
-- 🔨 Hoje trabalho com back-end
-- 📗 Estudando React
+- 🔨 Hoje trabalho com back-end.
+- 📗 Estudando React.
+- 📕 Estudando com foco em back-end na empresa  🏬 Cubos Academy.
+- ⏳ Amante de séries e filmes, amo assistir futebol e tenho como hobbie treinar musculação e fazer caminhada.
+
 
 ![Benicio227 Github stats](https://github-readme-stats.vercel.app/api?username=Benicio227&show_icons=true&theme=dracula)
 <div>
