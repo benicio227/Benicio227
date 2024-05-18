@@ -1,5 +1,4 @@
-## Olá! Eu sou o Benício Brandão 👋
-- 🔨 Hoje trabalho com back-end.
+## Olá! Eu sou o Benício Brandão 
 - 📗 Estudando React.
 - 📕 Estudando com foco em back-end na empresa  🏬 Cubos Academy.
 - ⏳ Amante de séries e filmes, amo assistir futebol e tenho como hobbie treinar musculação e fazer caminhada.
