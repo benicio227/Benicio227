@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Benício Brandão 
-- 📗 Estudando React.
+- 📗 Estudando C# .NET 8
 - 📕 Estudando com foco em back-end na empresa  🏬 Cubos Academy.
 - ⏳ Amante de séries e filmes, amo assistir futebol e tenho como hobbie treinar musculação e fazer caminhada.
 
