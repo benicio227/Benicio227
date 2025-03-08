@@ -1,8 +1,9 @@
-## Olá! Eu sou o Benício Brandão 
-- 📗 Estudando C# .NET 8
-- 📕 Estudando com foco em back-end na empresa  🏬 Cubos Academy.
-- ⏳ Amante de séries e filmes, amo assistir futebol e tenho como hobbie treinar musculação e fazer caminhada.
+👋 Olá! Eu sou o Benício Brandão
 
+- 🚀 Desenvolvedor Back-end especializado em C# e .NET 8
+- 🎯 Focado na construção de APIs escaláveis e bem estruturadas
+- 📌 Apaixonado por tecnologia, organização de código e boas práticas
+- ⚡ Curto aprender coisas novas, assistir futebol e treinar musculação
 
 ![Benicio227 Github stats](https://github-readme-stats.vercel.app/api?username=Benicio227&show_icons=true&theme=dracula)
 <div>
